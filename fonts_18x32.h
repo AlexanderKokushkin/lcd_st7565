@@ -1,5 +1,5 @@
-﻿#ifndef WARDUINO_FONTS_18X32_h
-#define WARDUINO_FONTS_18X32_h
+﻿#ifndef SOME_FONTS_18X32_h
+#define SOME_FONTS_18X32_h
 
 static const uint8_t digits_18x32[][4][18] = 
 {

@@ -1,5 +1,5 @@
-#ifndef WARDUINO_FONTS_16x24_H
-#define WARDUINO_FONTS_16x24_H
+#ifndef SOME_FONTS_16x24_H
+#define SOME_FONTS_16x24_H
 
 // Digital-7 Font Family Made by Style-7 ( Digital-7 Mono?)
 // downloaded from here : https://www.1001fonts.com/digital-7-font.html

@@ -1,5 +1,5 @@
-﻿#ifndef WARDUINO_FONTS_3X8_h
-#define WARDUINO_FONTS_3X8_h
+﻿#ifndef SOME_FONTS_3X8_h
+#define SOME_FONTS_3X8_h
 
 static const uint8_t ASCII_3x8[][3] = {
 	{0x00,0x00,0x00}, //  
